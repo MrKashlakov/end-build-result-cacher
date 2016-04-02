@@ -1,4 +1,4 @@
 module.exports = {
-	saveBuidResult: require('./save-build-result'),
-	getBuildResult: require('./get-build-result')
+	saveBuildResult: require('./lib/save-build-result'),
+	getBuildResult: require('./lib/get-build-result')
 };

@@ -1,6 +1,6 @@
 {
   "name": "end-build-result-cacher",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/MrKashlakov/end-build-result-cacher#readme",
   "dependencies": {
     "enb-require-or-eval": "^1.0.2",
-    "vow": "^0.4.12",
+    "vow": "0.3.9",
     "vow-fs": "^0.3.4"
   }
 }
