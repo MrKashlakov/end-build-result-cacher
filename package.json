@@ -1,0 +1,22 @@
+{
+  "name": "end-build-result-cacher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "get-build-result.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKashlakov/end-build-result-cacher.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrKashlakov/end-build-result-cacher/issues"
+  },
+  "homepage": "https://github.com/MrKashlakov/end-build-result-cacher#readme",
+  "dependencies": {
+    "vow-fs": "^0.3.4"
+  }
+}
