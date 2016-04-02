@@ -1,6 +1,6 @@
 var Vow = require('vow');
 var vowFs = require('vow-fs');
-var requireOrEval = 
+var requireOrEval = require('enb-require-or-eval');
 
 var _requireFormCache = function (result) {
 	var cacheModule = new Module.constructor();
